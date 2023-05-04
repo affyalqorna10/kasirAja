@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_email must be a valid email</name>
+   <tag></tag>
+   <elementGuidId>99e32da0-bb57-4620-84d2-3c630cfe6796</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-alert.css-qwanz3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role='alert']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f21f4ba7-f801-4a70-9dd0-a2361284df76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>51a576b0-61cb-490a-aaf8-dc37cd5d29c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-alert css-qwanz3</value>
+      <webElementGuid>0a455199-158f-40b5-b31a-2d74cef6ce4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&quot;email&quot; must be a valid email</value>
+      <webElementGuid>121b4fbb-ea61-421f-97e9-f45cc94f0ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-1y1lvqg&quot;]/div[@class=&quot;css-16in75i&quot;]/div[@class=&quot;css-1w7v3tn&quot;]/div[@class=&quot;css-11jlpvc&quot;]/div[@class=&quot;chakra-alert css-qwanz3&quot;]</value>
+      <webElementGuid>9999ce42-a968-4754-b884-3735d872819f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div</value>
+      <webElementGuid>e3f59dba-2744-40e0-b71d-b75d0ea30f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- kasirAjaDev'])[1]/following::div[3]</value>
+      <webElementGuid>c481e319-bea9-4cb9-b340-3ac70ce6d1f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hai, kasirAja'])[1]/following::div[3]</value>
+      <webElementGuid>d8b3cbb4-9861-4b06-a6c1-4838e637ee97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='email'])[1]/preceding::div[1]</value>
+      <webElementGuid>6b0417fe-8d48-4089-872f-d7232f398d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='password'])[1]/preceding::div[2]</value>
+      <webElementGuid>2ce7b3f4-3ce5-40fe-b530-29a400f9ac0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='&quot;email&quot; must be a valid email']/parent::*</value>
+      <webElementGuid>01f85a40-fa94-40e0-bce4-b9f94e2e2106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>6f69c63c-fb75-40e3-855e-7dece5583d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '&quot;email&quot; must be a valid email' or . = '&quot;email&quot; must be a valid email')]</value>
+      <webElementGuid>edcedfaf-e964-4e4b-b3b7-a7947374f23a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

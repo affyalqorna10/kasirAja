@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kredensial yang Anda berikan salah</name>
+   <tag></tag>
+   <elementGuidId>b59f04a7-cf9d-43b4-ad6f-d61a47c8b88a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-alert.css-qwanz3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role='alert']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>743c75d9-2e93-4cb9-88c4-4d7afe3dde52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>a67ab08c-5f69-49f5-971b-c4882ca01ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-alert css-qwanz3</value>
+      <webElementGuid>617c410b-26ce-4b17-9fa9-91a8cb2525e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kredensial yang Anda berikan salah</value>
+      <webElementGuid>d8f97517-76ae-4ec9-8f40-9fed6adc466d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-1y1lvqg&quot;]/div[@class=&quot;css-16in75i&quot;]/div[@class=&quot;css-1w7v3tn&quot;]/div[@class=&quot;css-11jlpvc&quot;]/div[@class=&quot;chakra-alert css-qwanz3&quot;]</value>
+      <webElementGuid>f09cde73-ca5b-4eac-934e-e71cb5fae37b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div</value>
+      <webElementGuid>a991fd61-a359-4b71-8a47-d0f76dd15764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- kasirAjaDev'])[1]/following::div[3]</value>
+      <webElementGuid>7522de92-45a7-4e90-9eea-d172bc3d112f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hai, kasirAja'])[1]/following::div[3]</value>
+      <webElementGuid>fcbad4c8-4922-456f-9e3d-1c51c4666ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='email'])[1]/preceding::div[1]</value>
+      <webElementGuid>11f1aacc-0bf2-46e8-872f-a5ab0a1d419d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='password'])[1]/preceding::div[2]</value>
+      <webElementGuid>b26625c5-9763-4be1-88ff-52888487c312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kredensial yang Anda berikan salah']/parent::*</value>
+      <webElementGuid>201243e5-6819-4bcd-b5ff-720978b11544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>8de583bd-09df-42d6-9240-abcc165ac474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kredensial yang Anda berikan salah' or . = 'Kredensial yang Anda berikan salah')]</value>
+      <webElementGuid>69b55b97-f240-4dc1-aa4b-838874073d3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

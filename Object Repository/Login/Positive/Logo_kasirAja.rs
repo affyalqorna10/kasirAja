@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Logo_kasirAja</name>
+   <tag></tag>
+   <elementGuidId>ac0fcfd1-f7cb-4e13-b778-5bafe1e09db3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.chakra-heading.css-1wswht5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@class='chakra-heading css-1wswht5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>dd8b8873-9ece-4b67-bd94-e18b47594ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-heading css-1wswht5</value>
+      <webElementGuid>1372ce0f-d9d9-4945-aff3-38a94e6fc491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kasirAja</value>
+      <webElementGuid>1ba8b926-d6c8-4233-b024-34336d46fa56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-tnxwfz&quot;]/div[@class=&quot;chakra-stack css-owjkmg&quot;]/h3[@class=&quot;chakra-heading css-1wswht5&quot;]</value>
+      <webElementGuid>7056b8df-920d-430f-bbe6-e3af6aee78d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/h3</value>
+      <webElementGuid>eaa60f1a-9198-49b7-a665-043f7edb0626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dashboard'])[1]/preceding::h3[1]</value>
+      <webElementGuid>56663f8b-3d6f-4805-ac19-b480183d8e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kasir'])[1]/preceding::h3[1]</value>
+      <webElementGuid>148e72bb-9940-41f0-8ecb-8888f119ed67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>8257fb19-469c-43cf-840b-623749bee0e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'kasirAja' or . = 'kasirAja')]</value>
+      <webElementGuid>acbee53e-a7a2-4922-9928-04903728803b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

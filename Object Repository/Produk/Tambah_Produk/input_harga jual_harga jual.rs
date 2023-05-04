@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_harga jual_harga jual</name>
+   <tag></tag>
+   <elementGuidId>87d8932c-41b0-4001-922a-9f7ba670a965</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='harga jual']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fdaebc13-9f73-4042-b6ad-5a87503463c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data</name>
+      <type>Main</type>
+      <value>harga jual,0,function () { [native code] }</value>
+      <webElementGuid>201d37a9-acd1-4adc-8d4f-33165a1e9464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>63eafe81-0589-4cd7-bbe7-0943a5446f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>harga jual</value>
+      <webElementGuid>7da57ade-a557-45d6-8a4c-63c810ea95c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input css-ksd4gw</value>
+      <webElementGuid>038f33bf-a81b-4fe8-a2df-8b42cb9eb124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d032a616-6578-45b9-943b-9172ccc321c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>numeric</value>
+      <webElementGuid>e68c4659-0a2c-41c3-9d97-a061d765a0e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;harga jual&quot;)</value>
+      <webElementGuid>51056d9a-22b4-449c-86dc-4ad65eb2ebe0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='harga jual']</value>
+      <webElementGuid>27cf1660-9f60-4081-a8e7-97b9dba4f8eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div[5]/input</value>
+      <webElementGuid>4a37243f-59e0-4bea-8171-f228431725ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/input</value>
+      <webElementGuid>c3575bd5-b599-4a26-9a7c-48f02ae65bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'harga jual']</value>
+      <webElementGuid>4bbd0ef1-09b1-4d12-b1ee-fc85d707e682</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

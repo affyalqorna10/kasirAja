@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_register</name>
+   <tag></tag>
+   <elementGuidId>97010e42-1924-4514-babb-3da65cc5ab5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-4rvv7a > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='/register']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2684c861-32ef-41f5-a80a-a3604b658bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>82e36eb8-c155-43de-8d0a-59c4eae130b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ingin mencoba, daftar ?</value>
+      <webElementGuid>f07359c1-8c7b-42a2-b27f-a5905d330363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-1y1lvqg&quot;]/div[@class=&quot;css-16in75i&quot;]/div[@class=&quot;css-1w7v3tn&quot;]/div[@class=&quot;css-11jlpvc&quot;]/div[@class=&quot;css-4rvv7a&quot;]/a[1]</value>
+      <webElementGuid>1d523372-78a7-4d77-9b67-150637622b46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[3]/a</value>
+      <webElementGuid>d62ce126-9d72-40ff-a310-179ead5b48e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ingin mencoba, daftar ?')]</value>
+      <webElementGuid>6ec24b5f-ccca-4ff0-8404-2553bed9446d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='password'])[1]/following::a[1]</value>
+      <webElementGuid>072767c5-bd08-4777-923c-c1bef73c2ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='email'])[1]/following::a[1]</value>
+      <webElementGuid>824856a2-cd6f-4ceb-b0f3-7619cb12d961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='login'])[1]/preceding::a[1]</value>
+      <webElementGuid>df996c22-991f-42e9-ae10-5ac231339af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ingin mencoba, daftar ?']/parent::*</value>
+      <webElementGuid>1decaaa2-219b-4f3a-b7ea-906bb1e783d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/register')]</value>
+      <webElementGuid>c9a25a94-b173-4148-957b-1f86a757b2f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>6791bfed-85f8-4266-a21e-6950edd82224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/register' and (text() = 'ingin mencoba, daftar ?' or . = 'ingin mencoba, daftar ?')]</value>
+      <webElementGuid>f5d7120d-8d2f-4738-9e35-910ee5eaa2e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

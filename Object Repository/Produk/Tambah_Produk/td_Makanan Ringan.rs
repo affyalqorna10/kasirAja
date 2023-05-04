@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Makanan Ringan</name>
+   <tag></tag>
+   <elementGuidId>82dc7ce4-2de7-4941-892f-42bf4192c814</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-29']/table/tbody/tr[5]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>fa26d902-4e55-4fbf-9ad3-f7b717c08559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>c35d44d4-b0a1-4cb8-8466-58ec2f2900f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-u3dlpe</value>
+      <webElementGuid>29db7ed1-d40b-4d38-a9d4-beb4adcf1d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Makanan Ringan</value>
+      <webElementGuid>ded157dd-9ea6-48ca-9885-e214f8239d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-29&quot;)/table[@class=&quot;chakra-table css-fqy1u9&quot;]/tbody[@class=&quot;css-0&quot;]/tr[@class=&quot;css-13n66qk&quot;]/td[@class=&quot;css-u3dlpe&quot;]</value>
+      <webElementGuid>b7ec8ac9-80db-4d1c-b341-77e4c41d75ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-29']/table/tbody/tr[5]/td</value>
+      <webElementGuid>9a7711be-f19a-4697-a30d-80fa3700ed00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jajanan SD'])[3]/following::td[2]</value>
+      <webElementGuid>92a39ecd-cfa1-47f2-b52e-375d0e3ef636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jajanan SD'])[2]/following::td[3]</value>
+      <webElementGuid>f28c1f17-6386-469f-a2a7-b95f4a9ee236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Umum'])[1]/preceding::td[1]</value>
+      <webElementGuid>2eb4c3d4-1c84-4b99-9f32-c1463eb2a184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[1]/preceding::td[2]</value>
+      <webElementGuid>a15860ae-0d3d-4e17-99f2-77242fd12c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Makanan Ringan']/parent::*</value>
+      <webElementGuid>07cde040-1279-468e-8dea-b2a122f79161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td</value>
+      <webElementGuid>8ee48bd6-625f-444e-bded-6684fe3623f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Makanan Ringan' or . = 'Makanan Ringan')]</value>
+      <webElementGuid>b9d56c26-81e6-4cc2-b12d-3f4680e63139</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

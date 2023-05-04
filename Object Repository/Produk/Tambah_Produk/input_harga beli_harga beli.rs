@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_harga beli_harga beli</name>
+   <tag></tag>
+   <elementGuidId>10b80b3a-7518-403e-9531-c9daad771d3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='harga beli']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>93744efb-f66e-4368-9c99-4be23f6096b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data</name>
+      <type>Main</type>
+      <value>harga beli,0,function () { [native code] }</value>
+      <webElementGuid>7c732ca5-410b-4d65-b463-4107bf2be068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bee09897-fca7-4fa1-92f0-fe50c55c58c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>harga beli</value>
+      <webElementGuid>dd673d82-9e79-4f95-ad52-e45a705d7e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input css-ksd4gw</value>
+      <webElementGuid>441fde50-b972-4e73-a003-0c967e2f0360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b91899b0-b91d-4b79-ab36-a57983de3254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>numeric</value>
+      <webElementGuid>e0055333-442a-473b-b9dc-9ec704a8f73b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;harga beli&quot;)</value>
+      <webElementGuid>b0b624b2-1301-446f-a7fe-5cf118a15e6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='harga beli']</value>
+      <webElementGuid>bc990247-c94c-4d72-b570-3669bca74b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div[4]/input</value>
+      <webElementGuid>26e0d918-d2bc-4cb0-8007-8414e3adb63c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+      <webElementGuid>d41f8572-4ef8-4c69-b99d-c5413320c0cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'harga beli']</value>
+      <webElementGuid>35935ac6-3c01-42e5-9048-102e8732e6a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

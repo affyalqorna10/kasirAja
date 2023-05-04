@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Toko berhasil didaftarkan</name>
+   <tag></tag>
+   <elementGuidId>f045d209-5dea-4bcc-8832-6abeadb47b71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#toast-1-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-1-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0ca2d6dc-3ad5-4126-863c-426bb51c8d90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>toast-1-title</value>
+      <webElementGuid>05587bc7-1f08-4f70-896e-69c42da9119f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-alert__title css-tidvy5</value>
+      <webElementGuid>2250ebe2-fe5e-4fdd-8b98-788aae669a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toko berhasil didaftarkan</value>
+      <webElementGuid>eb8e9850-a235-41ca-99d0-bea0eae779d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-toast-manager-top-right&quot;)/li[@class=&quot;chakra-toast&quot;]/div[@class=&quot;chakra-toast__inner&quot;]/div[@id=&quot;1&quot;]/div[@class=&quot;css-njbp03&quot;]/div[@id=&quot;toast-1-title&quot;]</value>
+      <webElementGuid>74d4a540-cc06-432b-b730-4e040c469403</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='toast-1-title']</value>
+      <webElementGuid>35fd710d-e41d-475b-9749-f70371415a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1']/div/div</value>
+      <webElementGuid>3fe5a284-b424-46c3-8d9b-6ef285ec49d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='login'])[1]/following::div[7]</value>
+      <webElementGuid>8816ad41-458f-4e2d-98be-b9c59f31a560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ingin mencoba, daftar ?'])[1]/following::div[7]</value>
+      <webElementGuid>d190814d-96e4-4610-88bb-5840b8f9c346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anda dapat menggunakan login sekarang'])[1]/preceding::div[1]</value>
+      <webElementGuid>c2d5a21c-9829-43d7-afd4-27222b81ba67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko berhasil didaftarkan'])[2]/preceding::div[2]</value>
+      <webElementGuid>9b1d4829-3b4d-4a65-89fe-4cc51c6282d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Toko berhasil didaftarkan']/parent::*</value>
+      <webElementGuid>2a5454ad-a201-42ea-b6b2-78e3d22d9e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/div</value>
+      <webElementGuid>9b8546a2-b87f-498a-be55-433f14860740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'toast-1-title' and (text() = 'Toko berhasil didaftarkan' or . = 'Toko berhasil didaftarkan')]</value>
+      <webElementGuid>fe7e892f-4b22-4f8a-abbd-d00c6176e2e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
